@@ -1,0 +1,25 @@
+img{
+    width:300px;
+    height: 190;
+    
+}
+
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+  
+    
+}
+
+.box{
+    padding: 10px;
+    opacity: 0.6;
+}
+
+.box:hover{
+    cursor: pointer;
+    opacity: 0.9;
+    transition: 0.8s;
+}
