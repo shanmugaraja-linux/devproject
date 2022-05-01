@@ -23,3 +23,7 @@ img{
     opacity: 0.9;
     transition: 0.8s;
 }
+
+body{
+    background-color: firebrick;
+}
